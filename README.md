@@ -7,7 +7,7 @@
 
 **Mervin Caballero** · BS Information Technology, Batangas State University '25
 
-6 projects delivered · Tanauan, Batangas :philippines:
+7 projects delivered · Tanauan, Batangas :philippines:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-08979C?style=for-the-badge&logo=readdotcv&logoColor=white)](https://jmrvnc.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmq.caballero@gmail.com)
